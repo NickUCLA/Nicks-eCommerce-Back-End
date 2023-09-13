@@ -91,7 +91,7 @@ The application provides the following API routes for managing categories, produ
 
 ## Video Walkthrough
 
-To see the functionality of the application in action, please watch the [video walkthrough](https://drive.google.com/file/d/1cUADfphAnbPQqk6D0GZqOmOy4jCmQb_r/view) that demonstrates the following:
+To see the functionality of the application in action, please watch the [video walkthrough](https://drive.google.com/file/d/1apLuYBpIaJB0Iyx0-ONMIc3u_AnH1I-F/view) that demonstrates the following:
 
 - Connecting to a MySQL database using Sequelize.
 - Seeding the database with sample data.
